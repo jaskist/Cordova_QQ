@@ -20,7 +20,7 @@
 - Cordova-iOS >=4.0
 
 ##安装
-1. 命令行运行      ```cordova plugin add https://github.com/iVanPan/Cordova_QQ.git --variable QQ_APP_ID=YOUR_QQ_APPID```  或者  ```cordova plugin add cordova-plugin-qqsdk --variable QQ_APP_ID=YOUR_QQ_APPID```              
+1. 命令行运行      ```cordova plugin add https://github.com/jaskist/Cordova_QQ.git --variable QQ_IOS_APP_ID=YOUR_IOS_APPID --variable QQ_ANDROID_APP_ID=YOUR_ANDROID_APPID```                  
 2. 命令行运行 cordova build --device     
  		
 ##注意事项	

@@ -20,7 +20,7 @@ I also write a cordova plugin for WeiboSDK [here](https://github.com/iVanPan/cor
 - Cordova-iOS >=4.0			
 
 ##Installation
-1. ```cordova plugin add https://github.com/iVanPan/Cordova_QQ.git --variable QQ_APP_ID=YOUR_QQ_APPID``` or ```cordova plugin add cordova-plugin-qqsdk --variable QQ_APP_ID=YOUR_QQ_APPID```                  
+1. ```cordova plugin add https://github.com/jaskist/Cordova_QQ.git --variable QQ_IOS_APP_ID=YOUR_IOS_APPID --variable QQ_ANDROID_APP_ID=YOUR_ANDROID_APPID```                  
 2. cordova build --device          			
 
 ##Notes			     		
